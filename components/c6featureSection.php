@@ -3,42 +3,42 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-3 col-md-6 p-0">
-                <div class="feature-item set-bg" data-setbg="img/features/1.jpg">
-                    <span class="cata new">Chinese</span>
-                    <div class="fi-content text-white">
-                        <h5><a href="#">HSK 1</a></h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
-                        <a href="#" class="fi-comment">3 Comments</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 p-0">
-                <div class="feature-item set-bg" data-setbg="img/features/2.jpg">
-                    <span class="cata strategy">Programming</span>
+                <div class="feature-item set-bg" data-setbg="img/technology/scratch.jpg">
+                    <span class="cata adventure">Inicial</span>
                     <div class="fi-content text-white">
                         <h5><a href="#">Scratch</a></h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
-                        <a href="#" class="fi-comment">3 Comments</a>
+                        <p>Primeras herramientas de programación para niños en edades entre 5 y 11 años.</p>
+                        <a href="#" class="fi-comment">Consultar</a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 p-0">
-                <div class="feature-item set-bg" data-setbg="img/features/3.jpg">
-                    <span class="cata new">Music</span>
+                <div class="feature-item set-bg" data-setbg="img/technology/web-development.jpg">
+                    <span class="cata strategy">Básico</span>
                     <div class="fi-content text-white">
-                        <h5><a href="#">Ear Training</a></h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
-                        <a href="#" class="fi-comment">3 Comments</a>
+                        <h5><a href="#">Desarrollo Web</a></h5>
+                        <p>Aprender las tecnologías fundamentales para el Desarrollo Web: HTML, CSS y JavaScript</p>
+                        <a href="#" class="fi-comment">Consultar</a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 p-0">
-                <div class="feature-item set-bg" data-setbg="img/features/4.jpg">
-                    <span class="cata racing">Programming</span>
+                <div class="feature-item set-bg" data-setbg="img/technology/python.jpg">
+                    <span class="cata racing">Intermedio</span>
                     <div class="fi-content text-white">
                         <h5><a href="#">Python</a></h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
-                        <a href="#" class="fi-comment">3 Comments</a>
+                        <p>Aprender uno de los lenguajes con más demanda en el mercado laboral, Python.</p>
+                        <a href="#" class="fi-comment">Consultar</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 p-0">
+                <div class="feature-item set-bg" data-setbg="img/technology/react.jpg">
+                    <span class="cata new">Avanzado</span>
+                    <div class="fi-content text-white">
+                        <h5><a href="#">React</a></h5>
+                        <p>Librería Front-End diseñada para facilitar el desarrollo de aplicaciones en una sola página.</p>
+                        <a href="#" class="fi-comment">Consultar</a>
                     </div>
                 </div>
             </div>

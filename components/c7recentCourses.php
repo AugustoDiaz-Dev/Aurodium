@@ -9,7 +9,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="recent-game-item">
                     <div class="rgi-thumb set-bg" data-setbg="img/languages/us-small.jpg">
-                        <div class="cata adventure">Inglés</div>
+                        <div class="cata adventure">Inicial</div>
                     </div>
                     <div class="rgi-content">
                         <h5>Inglés</h5>
@@ -25,7 +25,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="recent-game-item">
                     <div class="rgi-thumb set-bg" data-setbg="img/languages/china-small.jpg">
-                        <div class="cata adventure">Chino</div>
+                        <div class="cata adventure">Inicial</div>
                     </div>
                     <div class="rgi-content">
                         <h5>Chino</h5>
@@ -41,12 +41,12 @@
             <div class="col-lg-4 col-md-6">
                 <div class="recent-game-item">
                     <div class="rgi-thumb set-bg" data-setbg="img/languages/russia-small.jpg">
-                        <div class="cata adventure">Ruso</div>
+                        <div class="cata adventure">Inicial</div>
                     </div>
                     <div class="rgi-content">
                         <h5>Ruso</h5>
                         <p>Ruso desde cero. Exámenes de residencia temporal, permanente, ciudadanía.</p>
-                        <a href="#" class="comment">3 Comments</a>
+                        <a href="#" class="comment">Consultar</a>
                         <div class="rgi-extra">
                             <div class="rgi-star"><img src="img/icons/star.png" alt=""></div>
                             <div class="rgi-heart"><img src="img/icons/heart.png" alt=""></div>

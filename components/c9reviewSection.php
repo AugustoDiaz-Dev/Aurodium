@@ -1,9 +1,9 @@
 <!-- Review section -->
-<section class="review-section spad set-bg" data-setbg="img/recent-bg-1.jpg">
+<section class="review-section spad set-bg" data-setbg="img/section-bg.jpg">
     <div class="container">
         <div class="section-title">
             <div class="cata new">Nuevos</div>
-            <h2>Música</h2>
+            <h2 class="text-white">Música</h2>
         </div>
         <div class="row">
             <div class="col-lg-3 col-md-6">
@@ -12,8 +12,8 @@
                         <div class="score yellow">9.3</div>
                     </div>
                     <div class="review-text">
-                        <h5>Lenguage Musical</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisc ing ipsum dolor sit ame.</p>
+                        <h5 class="text-white">Lenguage Musical</h5>
+                        <p class="text-white bg-primary">Ritmo, melodía, armonía e intervalos. Lectura y escritura de música para todos los niveles.</p>
                     </div>
                 </div>
             </div>
@@ -23,8 +23,8 @@
                         <div class="score purple">9.5</div>
                     </div>
                     <div class="review-text">
-                        <h5>Audioperceptiva</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisc ing ipsum dolor sit ame.</p>
+                        <h5 class="text-white">Audioperceptiva</h5>
+                        <p class="text-white bg-primary">Entrenamiento vocal y auditivo. Mejorar la percepción de la música a través de diversos ejercicios.</p>
                     </div>
                 </div>
             </div>
@@ -34,8 +34,8 @@
                         <div class="score green">9.1</div>
                     </div>
                     <div class="review-text">
-                        <h5>Piano</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisc ing ipsum dolor sit ame.</p>
+                        <h5 class="text-white">Piano</h5>
+                        <p class="text-white bg-primary">Clases de piano clásico, ingresos a distintas universidades, escuelas terciarias y escuelas de música.</p>
                     </div>
                 </div>
             </div>
@@ -45,8 +45,8 @@
                         <div class="score pink">9.7</div>
                     </div>
                     <div class="review-text">
-                        <h5>Armonía y Arreglos</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisc ing ipsum dolor sit ame.</p>
+                        <h5 class="text-white">Armonía y Arreglos</h5>
+                        <p class="text-white bg-primary">Arreglos orientados a música popular y orquestaciones para distintos grupos de instrumentos.</p>
                     </div>
                 </div>
             </div>

@@ -3,9 +3,9 @@
 	<div class="pi-content">
 		<div class="container">
 			<div class="row">
-				<div class="col-xl-5 col-lg-6 text-white">
-					<h2>Contacto</h2>
-					<p>Los cursos estan disponibles para distintas franjas horarias, adaptadas a cada país.</p>
+				<div class="col-xl-5 col-lg-6">
+					<h2 class="text-primary">Contacto</h2>
+					<!-- <p>Los cursos estan disponibles para distintas franjas horarias, adaptadas a cada país.</p> -->
 				</div>
 			</div>
 		</div>
@@ -25,7 +25,7 @@
 					<div class="col-md-9">
 						<ul class="contact-info-list">
 							<li>
-								<div class="cf-left">Address</div>
+								<div class="cf-left">Dirección</div>
 								<div class="cf-right">Somewhere over the rainbow</div>
 							</li>
 							<li>
