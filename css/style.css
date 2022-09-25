@@ -46,7 +46,7 @@ h6 {
 }
 
 p {
-  font-size: 14px;
+  font-size: 16px;
   color: #878787;
   line-height: 2;
 }
@@ -515,6 +515,10 @@ ol {
   border-bottom: 1px solid #d6dee7;
 }
 
+.recent-game-item {
+  border: solid 0.5rem gray;
+}
+
 .recent-game-item .rgi-thumb {
   height: 204px;
   padding: 25px 28px;
@@ -567,7 +571,7 @@ ol {
 ------------------------*/
 
 .tournaments-section {
-  background-image: url("../img/pattern.png");
+  background-image: url("../img/pattern.jpg");
   background-repeat: repeat;
 }
 
@@ -1501,4 +1505,9 @@ ol {
   .page-info-section .pi-content h2 {
     font-size: 40px;
   }
+}
+
+/* New Styles */
+html {
+  scroll-behavior: smooth;
 }

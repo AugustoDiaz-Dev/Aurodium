@@ -1,5 +1,5 @@
 <!-- Page info section -->
-<section class="page-info-section set-bg" data-setbg="img/contactos-bg.jpg">
+<section class="page-info-section set-bg" data-setbg="img/contactos-bg.jpg" id="contact">
 	<div class="pi-content">
 		<div class="container">
 			<div class="row">
