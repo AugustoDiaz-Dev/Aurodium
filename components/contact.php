@@ -30,7 +30,9 @@
 							</li>
 							<li>
 								<div class="cf-left">WhatsApp</div>
-								<div class="cf-right">+7 914 330 8115</div>
+								<div class="cf-right">
+									<a href="https://wa.me/79143308115?text=Hola!%20Tengo%20una%20in%20consulta%20">+7 914 330 8115</a> 
+								</div>
 							</li>
 							<li>
 								<div class="cf-left">E-mail</div>
