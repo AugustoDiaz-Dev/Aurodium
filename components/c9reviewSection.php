@@ -13,7 +13,7 @@
                     </div>
                     <div class="review-text">
                         <h5 class="text-white">Lenguage Musical</h5>
-                        <p class="text-white bg-primary">Ritmo, melodía, armonía e intervalos. Lectura y escritura de música para todos los niveles.</p>
+                        <p class="text-white">Ritmo, melodía, armonía e intervalos. Lectura y escritura de música para todos los niveles.</p>
                     </div>
                 </div>
             </div>
@@ -24,7 +24,7 @@
                     </div>
                     <div class="review-text">
                         <h5 class="text-white">Audioperceptiva</h5>
-                        <p class="text-white bg-primary">Entrenamiento vocal y auditivo. Mejorar la percepción de la música a través de diversos ejercicios.</p>
+                        <p class="text-white">Entrenamiento vocal y auditivo. Mejorar la percepción de la música a través de diversos ejercicios.</p>
                     </div>
                 </div>
             </div>
@@ -35,7 +35,7 @@
                     </div>
                     <div class="review-text">
                         <h5 class="text-white">Piano</h5>
-                        <p class="text-white bg-primary">Clases de piano clásico, ingresos a distintas universidades, escuelas terciarias y escuelas de música.</p>
+                        <p class="text-white">Clases de piano clásico, ingresos a distintas universidades, escuelas terciarias y escuelas de música.</p>
                     </div>
                 </div>
             </div>
@@ -46,7 +46,7 @@
                     </div>
                     <div class="review-text">
                         <h5 class="text-white">Armonía y Arreglos</h5>
-                        <p class="text-white bg-primary">Arreglos orientados a música popular y orquestaciones para distintos grupos de instrumentos.</p>
+                        <p class="text-white">Arreglos orientados a música popular y orquestaciones para distintos grupos de instrumentos.</p>
                     </div>
                 </div>
             </div>

@@ -10,7 +10,7 @@
                     a programación (Python, Scratch, Web Development) <br>
                     dictados por los mejores profesores.
                 </p>
-                    <a href="#" class="site-btn">Leer más ...</a>
+                    <a href="#about" class="site-btn">Leer más ...</a>
                 </div>
             </div>
         </div>
@@ -21,7 +21,7 @@
                     <p>En una era marcada por los desarrollos tecnológicos<br>
                     tenemos más herramientas digitales a nuestro alcance
                     <br>y nuevas formas de abordar su aprendizaje.</p>
-                    <a href="single-blog.php" class="site-btn">Leer más ...</a>
+                    <a href="#about" class="site-btn">Leer más ...</a>
                 </div>
             </div>
         </div>

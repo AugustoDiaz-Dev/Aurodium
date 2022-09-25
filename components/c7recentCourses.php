@@ -1,5 +1,5 @@
 <!-- Recent game section  -->
-<section class="recent-game-section spad set-bg" data-setbg="img/recent-bg.webp">
+<section class="recent-game-section spad set-bg" data-setbg="img/recent-bg.jpg">
     <div class="container">
         <div class="section-title">
             <div class="cata new">Nuevos</div>
@@ -13,7 +13,7 @@
                     </div>
                     <div class="rgi-content">
                         <h5>Inglés</h5>
-                        <p>Inglés desde cero. Business. IELTS. Academic. Inglés para viajeros. Inglés para programadores.</p>
+                        <p>Inglés desde cero. Business. IELTS. Academic. Inglés para viajeros.</p>
                         <a href="#" class="comment">Consultar</a>
                         <div class="rgi-extra">
                             <div class="rgi-star"><img src="img/icons/star.png" alt=""></div>
