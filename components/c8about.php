@@ -31,7 +31,7 @@
                 <div class="tournament-item">
                     <div class="ti-notic">Lista de cursos</div>
                     <div class="ti-content">
-                        <div class="ti-thumb set-bg" data-setbg="img/tournament/2.jpg"></div>
+                        <div class="ti-thumb set-bg" data-setbg="img/about.jpg"></div>
                         <div class="ti-text">
                             <h4>Cursos disponibles</h4>
                             <ul>

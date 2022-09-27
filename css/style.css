@@ -1,11 +1,21 @@
 /*---------------------------*/
 /* Template default CSS
 /*---------------------------*/
+@import url("https://fonts.googleapis.com/css2?family=Nova+Square&display=swap");
+
+:root {
+  --my-primary: #ffb320;
+  --my-secondary: ;
+  --my-grey: #e2e2e2;
+  --my-white: white;
+  --my-black: #010101;
+}
 
 html,
 body {
   height: 100%;
-  font-family: "Roboto", sans-serif;
+  font-family: "Nova Square", cursive;
+  /* font-family: "Roboto", sans-serif; */
   -webkit-font-smoothing: antialiased;
   font-smoothing: antialiased;
 }
@@ -467,6 +477,8 @@ ol {
 .feature-item {
   height: 415px;
   position: relative;
+  border-radius: 0.25rem;
+  margin: 1px;
 }
 
 .feature-item:after {
@@ -524,8 +536,13 @@ ol {
   border-bottom: 1px solid #d6dee7;
 }
 
+.recent-game-section h2 {
+  color: var(--my-primary);
+}
+
 .recent-game-item {
-  border: solid 0.5rem gray;
+  border: solid 0.25rem white;
+  border-radius: 0.25rem;
 }
 
 .recent-game-item .rgi-thumb {
@@ -660,6 +677,9 @@ ol {
 .review-section {
   background-position: right top;
 }
+.review-section h2 {
+  color: var(--my-primary);
+}
 
 .review-cover {
   border: solid 2px #e2e2e2;
@@ -696,11 +716,15 @@ ol {
 }
 
 .review-item .review-cover .score.pink {
-  background: #ff20ae;
+  background: #ff205f;
 }
 
 .review-item .review-cover .score.green {
   background: #4eae60;
+}
+
+.review-item .review-cover .score.blue {
+  background: #40abf5;
 }
 
 .review-item .review-text {
@@ -1223,12 +1247,6 @@ ol {
   Contact page
 --------------------*/
 
-.map {
-  height: 515px;
-  background: #ddd;
-  margin-bottom: 90px;
-}
-
 .contact-info-list {
   padding-top: 55px;
   padding-bottom: 20px;
@@ -1244,17 +1262,17 @@ ol {
   float: left;
   font-size: 16px;
   font-weight: 700;
-  color: #ffb320;
+  color: white;
 }
 
 .contact-info-list .cf-right {
-  color: #878787;
+  color: white;
   font-size: 15px;
   padding-left: 100px;
 }
 
 .social-links a {
-  color: #474747;
+  color: var(--my-primary);
   font-size: 16px;
   margin-left: 10px;
   margin-right: 20px;
@@ -1524,4 +1542,7 @@ ol {
 /* New Styles */
 html {
   scroll-behavior: smooth;
+}
+.my-primary {
+  color: #ffb320 !important;
 }

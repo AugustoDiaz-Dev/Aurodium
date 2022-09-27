@@ -5,7 +5,7 @@
             <div class="col-md-6">
                 <div class="review-item">
                     <div class="review-cover set-bg" data-setbg="img/courses/scratch.jpg">
-                        <div class="score purple">9.5</div>
+                        <div class="score blue">9.5</div>
                     </div>
                     <div class="review-text">
                         <h4>Scratch</h4>

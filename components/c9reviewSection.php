@@ -3,9 +3,20 @@
     <div class="container">
         <div class="section-title">
             <div class="cata new">Nuevos</div>
-            <h2 class="text-white">Música</h2>
+            <h2>Música</h2>
         </div>
         <div class="row">
+            <div class="col-lg-3 col-md-6">
+                <div class="review-item">
+                    <div class="review-cover set-bg" data-setbg="img/music/piano.jpg">
+                        <div class="score green">9.1</div>
+                    </div>
+                    <div class="review-text">
+                        <h5 class="text-white">Piano</h5>
+                        <p class="text-white">Clases de piano clásico, ingresos a distintas universidades, escuelas terciarias y escuelas de música.</p>
+                    </div>
+                </div>
+            </div>
             <div class="col-lg-3 col-md-6">
                 <div class="review-item">
                     <div class="review-cover set-bg" data-setbg="img/music/music-theory.jpg">
@@ -25,17 +36,6 @@
                     <div class="review-text">
                         <h5 class="text-white">Audioperceptiva</h5>
                         <p class="text-white">Entrenamiento vocal y auditivo. Mejorar la percepción de la música a través de diversos ejercicios.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="review-item">
-                    <div class="review-cover set-bg" data-setbg="img/music/piano.jpg">
-                        <div class="score green">9.1</div>
-                    </div>
-                    <div class="review-text">
-                        <h5 class="text-white">Piano</h5>
-                        <p class="text-white">Clases de piano clásico, ingresos a distintas universidades, escuelas terciarias y escuelas de música.</p>
                     </div>
                 </div>
             </div>

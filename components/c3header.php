@@ -3,7 +3,7 @@
     <div class="container">
         <!-- logo -->
         <a class="site-logo" href="index.php">
-            <img src="img/logo.png" alt="Aurodium logo">
+            <img src="img/logo.jpg" alt="Aurodium logo">
         </a>
         <!-- <div class="user-panel">
             <a href="#">Login</a> / <a href="#">Register</a>
