@@ -1,3 +1,4 @@
 # Aurodium
 
-HTML, CSS, JS, PHP, Animate.css
+HTML, CSS, JavaScript, PHP, Animate.css
+Notion.so, GoDaddy, VsCode, Figma, Photopea
