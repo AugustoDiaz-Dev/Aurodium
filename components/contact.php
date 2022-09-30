@@ -14,28 +14,28 @@
 <!-- Page info section -->
 
 <!-- Page section -->
-<section class="page-section spad contact-page set-bg" data-setbg="img/section-bg.jpg">
+<section class="page-section spad contact-page set-bg" data-setbg="" id="contact-form">
 	<div class="container">
 		<!-- <div class="map" id="map-canvas"></div> -->
 		<div class="row">
-			<div class="col-lg-4 mb-5 mb-lg-0 bg-dark p-2">
+			<div class="col-lg-4 mb-5 mb-lg-0 p-2">
 				<h4 class="comment-title my-primary">Contacto</h4>
 				<!-- <p>Odio ultrices ut. Etiam ac erat ut enim maximus accumsan vel ac nisl. Duis feug iat bibendum orci, non elementum urna. Cras sit amet sapien aliquam.</p> -->
 				<div class="row">
 					<div class="col-md-9">
 						<ul class="contact-info-list">
 							<li>
-								<div class="cf-left">Dirección</div>
+								<div class="cf-left my-primary">Dirección</div>
 								<div class="cf-right">Somewhere over the rainbow</div>
 							</li>
 							<li>
-								<div class="cf-left">WhatsApp</div>
-								<div class="cf-right">
+								<div class="cf-left my-primary">WhatsApp</div>
+								<div class="cf-right my-primary">
 									<a href="https://wa.me/79143308115?text=Hola!%20Tengo%20una%20in%20consulta%20">+7 914 330 8115</a> 
 								</div>
 							</li>
 							<li>
-								<div class="cf-left">E-mail</div>
+								<div class="cf-left my-primary">E-mail</div>
 								<div class="cf-right">augustordiaz@gmail.com</div>
 							</li>
 						</ul>

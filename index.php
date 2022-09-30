@@ -15,6 +15,8 @@
 	<?php include './components/c7recentCourses.php' ?>
 	<?php include './components/c8about.php' ?>
 	<?php include './components/c9reviewSection.php' ?>
+	<?php include './components/c15coursesSlider.php' ?>
+	<?php include './components/c14pageSection.php' ?>
 	<?php include './components/contact.php' ?>
 	<?php include './components/c11footerSection.php' ?>
 	<?php include './components/c12jsImports.php' ?>

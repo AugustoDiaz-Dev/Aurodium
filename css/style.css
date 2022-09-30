@@ -1262,11 +1262,11 @@ ol {
   float: left;
   font-size: 16px;
   font-weight: 700;
-  color: white;
+  color: gray;
 }
 
 .contact-info-list .cf-right {
-  color: white;
+  color: gray;
   font-size: 15px;
   padding-left: 100px;
 }
@@ -1545,4 +1545,11 @@ html {
 }
 .my-primary {
   color: #ffb320 !important;
+}
+.carousel-inner {
+  border-radius: 1rem;
+}
+#carousel button {
+  background-color: transparent;
+  border: transparent;
 }
