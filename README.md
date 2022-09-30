@@ -1,4 +1,16 @@
 # Aurodium
 
-HTML, CSS, JavaScript, PHP, Animate.css
-Notion.so, GoDaddy, VsCode, Figma, Photopea
+- HTML
+- CSS 
+- JavaScript
+- jQuery
+- Bootstrap
+- PHP 
+- Animate.css
+- Font Awesome
+- Owl Carousel
+- Notion.so
+- VsCode
+- Figma
+- Photopea
+
