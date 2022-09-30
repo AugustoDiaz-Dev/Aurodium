@@ -35,14 +35,15 @@
                         <div class="ti-text">
                             <h4>Cursos disponibles</h4>
                             <ul>
-                                <li>Scratch. Nivel 1, 2, 3, 4, 5, 6, 7</li>
-                                <li>Python. Introducción a Python</li>
-                                <li>React. Introducción a React</li>
+                                <li>Scratch. Nivel 0, 1, 2, 3, 4, 5, 6, 7</li>
                                 <li>Dessarrollo Web 1. HTML, CSS, JS</li>
                                 <li>Dessarrollo Web 2. HTML, CSS, JS, Bootstrap</li>
+                                <li>Python. Introducción a Python</li>
+                                <li>React. Introducción a React</li>
                                 <li>Inglés desde cero</li>
                                 <li>Business English</li>
                                 <li>Inglés para viajeros</li>
+                                <li>Inglés académico</li>
                                 <li>Chino-Básico. HSK 1, 2</li>
                                 <li>Chino-Intermedio. 3, 4, 5</li>
                                 <li>Chino-Avanzado. 6, 7, 8, 9</li>

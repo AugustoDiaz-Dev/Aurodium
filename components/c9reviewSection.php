@@ -35,7 +35,7 @@
                     </div>
                     <div class="review-text">
                         <h5 class="text-white">Audioperceptiva</h5>
-                        <p class="text-white">Entrenamiento vocal y auditivo. Mejorar la percepción de la música a través de diversos ejercicios.</p>
+                        <p class="text-white">Entrenamiento vocal y auditivo. Mejorar la percepción de la música a través de ejercicios.</p>
                     </div>
                 </div>
             </div>
