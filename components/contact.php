@@ -50,21 +50,27 @@
 			<div class="col-lg-8">
 				<div class="contact-form-warp">
 					<h4 class="comment-title my-primary">¡Esperamos tu mensaje!</h4>
-					<form class="comment-form">
+
+					<form class="comment-form" action="send.php" method="post">
 						<div class="row">
+
 							<div class="col-md-6">
-								<input type="text" placeholder="Nombre">
+								<input type="text" name="name" placeholder="Nombre">
 							</div>
+
 							<div class="col-md-6">
-								<input type="email" placeholder="Email">
+								<input type="email" name="email" placeholder="Email">
 							</div>
+
 							<div class="col-lg-12">
-								<input type="text" placeholder="Motivo">
-								<textarea placeholder="Mensaje"></textarea>
-								<button class="site-btn btn-sm">Enviar</button>
+								<input type="text" name="subject" placeholder="Motivo">
+								<textarea name="body" placeholder="Mensaje"></textarea>
+								<button class="site-btn btn-sm" type="submit" name="send">Enviar</button>
 							</div>
+
 						</div>
 					</form>
+					
 				</div>
 			</div>
 		</div>

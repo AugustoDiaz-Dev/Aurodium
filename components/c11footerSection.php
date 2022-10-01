@@ -3,7 +3,7 @@
     <div class="container">
         <ul class="footer-menu">
             <li><a href="index.php">Inicio</a></li>
-            <li><a href="review.php">Cursos</a></li>
+            <li><a href="#courses">Cursos</a></li>
             <li><a href="#about">Acerca</a></li>
             <li><a href="#contact">Contacto</a></li>
         </ul>
