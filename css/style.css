@@ -139,13 +139,13 @@ ol {
   display: inline-block;
   text-align: center;
   font-size: 15px;
-  color: #131313;
   padding: 16px 30px;
   min-width: 153px;
   border-radius: 50px;
   font-weight: 500;
-  border: none;
+  border: 2px solid transparent;
   background: #ffb320;
+  color: #131313;
   cursor: pointer;
 }
 
@@ -155,7 +155,9 @@ ol {
 }
 
 .site-btn:hover {
-  color: #131313;
+  color: #ffb320;
+  background-color: #131313 !important;
+  border: 2px solid #ffb320 !important;
 }
 
 .cata {
@@ -527,30 +529,30 @@ ol {
 }
 
 /*----------------------
-  Recent Game Section
+  Recent Course Section
 ------------------------*/
 
-.recent-game-section {
+.recent-course-section {
   background-color: #eef2f6;
   border-top: 1px solid #d6dee7;
   border-bottom: 1px solid #d6dee7;
 }
 
-.recent-game-section h2 {
+.recent-course-section h2 {
   color: var(--my-primary);
 }
 
-.recent-game-item {
+.recent-course-item {
   border: solid 0.25rem white;
   border-radius: 0.25rem;
 }
 
-.recent-game-item .rgi-thumb {
+.recent-course-item .rgi-thumb {
   height: 204px;
   padding: 25px 28px;
 }
 
-.recent-game-item .rgi-content {
+.recent-course-item .rgi-content {
   padding: 34px 22px 20px;
   background: #fff;
   border: 1px solid #d6dee7;
@@ -558,25 +560,25 @@ ol {
   position: relative;
 }
 
-.recent-game-item .rgi-content h5 {
+.recent-course-item .rgi-content h5 {
   margin-bottom: 20px;
   line-height: 1.5;
 }
 
-.recent-game-item .rgi-content .comment {
+.recent-course-item .rgi-content .comment {
   font-size: 12px;
   color: #737373;
 }
 
-.recent-game-item .rgi-extra {
+.recent-course-item .rgi-extra {
   position: absolute;
   right: 0;
   bottom: 0;
   width: 70px;
 }
 
-.recent-game-item .rgi-extra .rgi-star,
-.recent-game-item .rgi-extra .rgi-heart {
+.recent-course-item .rgi-extra .rgi-star,
+.recent-course-item .rgi-extra .rgi-heart {
   height: 35px;
   width: 35px;
   float: left;
@@ -584,24 +586,24 @@ ol {
   padding: 6px 8px 0;
 }
 
-.recent-game-item .rgi-extra .rgi-star {
+.recent-course-item .rgi-extra .rgi-star {
   background: #ffb320;
 }
 
-.recent-game-item .rgi-extra .rgi-heart {
+.recent-course-item .rgi-extra .rgi-heart {
   background: #ff205f;
 }
 
 /*----------------------
-  Tournaments Section
+  About Section
 ------------------------*/
 
-.tournaments-section {
+.about-section {
   background-image: url("../img/pattern.jpg");
   background-repeat: repeat;
 }
 
-.tournament-title {
+.about-title {
   display: inline-block;
   padding: 7px 25px;
   font-size: 12px;
@@ -611,11 +613,11 @@ ol {
   background: #fb6e10;
 }
 
-.tournament-item {
+.about-item {
   background: #252525;
 }
 
-.tournament-item .ti-notic {
+.about-item .ti-notic {
   display: inline-block;
   padding: 8px 21px;
   font-size: 12px;
@@ -625,47 +627,47 @@ ol {
   background: #ffb320;
 }
 
-.tournament-item .ti-content {
+.about-item .ti-content {
   padding: 38px 24px;
   overflow: hidden;
 }
 
-.tournament-item .ti-thumb {
+.about-item .ti-thumb {
   width: 168px;
   height: 178px;
   float: left;
 }
 
-.tournament-item .ti-text {
+.about-item .ti-text {
   padding-left: 195px;
 }
 
-.tournament-item .ti-text h4 {
+.about-item .ti-text h4 {
   color: #ffb320;
   margin-bottom: 20px;
 }
 
-.tournament-item .ti-text ul {
+.about-item .ti-text ul {
   list-style: none;
   margin-bottom: 20px;
 }
 
-.tournament-item .ti-text ul li {
+.about-item .ti-text ul li {
   color: #fff;
   font-size: 12px;
   margin-bottom: 6px;
 }
 
-.tournament-item .ti-text ul li span {
+.about-item .ti-text ul li span {
   color: #9a9a9a;
 }
 
-.tournament-item .ti-text p {
+.about-item .ti-text p {
   font-size: 12px;
   margin-bottom: 0;
 }
 
-.tournament-item .ti-text p span {
+.about-item .ti-text p span {
   font-weight: 500;
   color: #ffb320;
 }
@@ -1006,7 +1008,7 @@ ol {
   Categories page
 --------------------*/
 
-.recent-game-page .recent-game-item {
+.recent-course-page .recent-course-item {
   margin-bottom: 42px;
 }
 
@@ -1342,15 +1344,15 @@ ol {
   .hero-slider .owl-dots {
     max-width: 690px;
   }
-  .recent-game-item {
+  .recent-course-item {
     margin-bottom: 42px;
   }
-  .tournament-item .ti-thumb {
+  .about-item .ti-thumb {
     width: 100%;
     height: 230px;
     float: none;
   }
-  .tournament-item .ti-text {
+  .about-item .ti-text {
     padding-left: 0;
     padding-top: 20px;
   }
@@ -1432,7 +1434,7 @@ ol {
   .feature-item {
     margin-bottom: 30px;
   }
-  .recent-game-item {
+  .recent-course-item {
     margin-bottom: 42px;
   }
   .review-section {
@@ -1501,12 +1503,12 @@ ol {
   .news-ticker {
     width: 100%;
   }
-  .tournament-item .ti-thumb {
+  .about-item .ti-thumb {
     width: 100%;
     height: 230px;
     float: none;
   }
-  .tournament-item .ti-text {
+  .about-item .ti-text {
     padding-left: 0;
     padding-top: 20px;
   }
@@ -1553,3 +1555,16 @@ html {
   background-color: transparent;
   border: transparent;
 }
+/* .my-button {
+  border: 2px solid #ffb320;
+  padding: 4px 8px;
+  border-radius: 4px;
+  color: black;
+}
+.my-button:hover {
+  border: 2px solid #ffb320;
+  padding: 6px 10px;
+  border-radius: 4px;
+  color: black;
+  background-color: #ffb320;
+} */

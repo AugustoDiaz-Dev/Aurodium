@@ -7,10 +7,10 @@
                     <h2>¡Los Mejores <span>Cursos</span>!</h2>
                     <p>
                     Cursos para diferentes niveles orientados <br> 
-                    a programación (Python, Scratch, Web Development) <br>
+                    a programación, idiomas y música <br>
                     dictados por los mejores profesores.
                 </p>
-                    <a href="review.php" class="site-btn">Cursos</a>
+                    <a href="#courses" class="site-btn">Cursos</a>
                 </div>
             </div>
         </div>
@@ -21,7 +21,7 @@
                     <p>En una era marcada por los desarrollos tecnológicos<br>
                     tenemos más herramientas digitales a nuestro alcance
                     <br>y nuevas formas de abordar su aprendizaje.</p>
-                    <a href="review.php" class="site-btn">Cursos</a>
+                    <a href="#courses" class="site-btn">Cursos</a>
                 </div>
             </div>
         </div>

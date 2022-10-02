@@ -1,4 +1,3 @@
-<!-- Feature section -->
 <section class="feature-section spad set-bg" data-setbg="">
     <div class="container">
         <div class="row">
@@ -45,4 +44,3 @@
         </div>
     </div>
 </section>
-<!-- Feature section end -->

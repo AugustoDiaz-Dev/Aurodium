@@ -1,26 +1,21 @@
-<!-- Page info section -->
+
 <section class="page-info-section set-bg" data-setbg="img/pattern.jpg" id="contact">
 	<div class="pi-content">
 		<div class="container">
 			<div class="row">
 				<div class="col-xl-5 col-lg-6">
 					<h2 class="my-primary">Contacto</h2>
-					<!-- <p>Los cursos estan disponibles para distintas franjas horarias, adaptadas a cada país.</p> -->
 				</div>
 			</div>
 		</div>
 	</div>
 </section>
-<!-- Page info section -->
 
-<!-- Page section -->
 <section class="page-section spad contact-page set-bg" data-setbg="" id="contact-form">
 	<div class="container">
-		<!-- <div class="map" id="map-canvas"></div> -->
 		<div class="row">
 			<div class="col-lg-4 mb-5 mb-lg-0 p-2">
 				<h4 class="comment-title my-primary">Contacto</h4>
-				<!-- <p>Odio ultrices ut. Etiam ac erat ut enim maximus accumsan vel ac nisl. Duis feug iat bibendum orci, non elementum urna. Cras sit amet sapien aliquam.</p> -->
 				<div class="row">
 					<div class="col-md-9">
 						<ul class="contact-info-list">
@@ -44,7 +39,6 @@
 				<div class="social-links">
 					<a href="https://github.com/AugustoDiaz-Dev"><i class="fa fa-facebook"></i></a>
 					<a href="https://github.com/AugustoDiaz-Dev"><i class="fa fa-twitter"></i></a>
-					<a href="https://github.com/AugustoDiaz-Dev"><i class="fa fa-linkedin"></i></a>
 				</div>
 			</div>
 			<div class="col-lg-8">
@@ -76,4 +70,3 @@
 		</div>
 	</div>
 </section>
-<!-- Pagea section end -->
