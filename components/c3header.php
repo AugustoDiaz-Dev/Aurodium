@@ -1,4 +1,3 @@
-<!-- Header section -->
 <header class="header-section">
     <div class="container">
         <!-- logo -->
@@ -23,4 +22,3 @@
         </nav>
     </div>
 </header>
-<!-- Header section end -->

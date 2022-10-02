@@ -1,10 +1,9 @@
-<!-- Tournaments section -->
-<section class="tournaments-section spad" id="about">
+<section class="about-section spad" id="about">
     <div class="container">
-        <div class="tournament-title">Acerca</div>
+        <div class="about-title">Acerca</div>
         <div class="row">
             <div class="col">
-                <div class="tournament-item mb-4 mb-lg-0">
+                <div class="about-item mb-4 mb-lg-0">
                     <div class="ti-notic">Aurodium</div>
                     <div class="ti-content">
                         <div class="ti-thumb set-bg" data-setbg="img/about.jpg"></div>
@@ -28,7 +27,7 @@
                 </div>
             </div>
             <div class="col-md-6">
-                <div class="tournament-item">
+                <div class="about-item">
                     <div class="ti-notic">Lista de cursos</div>
                     <div class="ti-content">
                         <div class="ti-thumb set-bg" data-setbg="img/about.jpg"></div>
@@ -62,4 +61,3 @@
         </div>
     </div>
 </section>
-<!-- Tournaments section bg -->

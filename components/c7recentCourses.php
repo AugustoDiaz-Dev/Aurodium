@@ -1,5 +1,4 @@
-<!-- Recent game section  -->
-<section class="recent-game-section spad set-bg" data-setbg="img/section-bg-1.jpg">
+<section class="recent-course-section spad set-bg" data-setbg="img/section-bg-1.jpg">
     <div class="container">
         <div class="section-title">
             <div class="cata new">Nuevos</div>
@@ -7,7 +6,7 @@
         </div>
         <div class="row">
             <div class="col-lg-4 col-md-6">
-                <div class="recent-game-item">
+                <div class="recent-course-item">
                     <div class="rgi-thumb set-bg" data-setbg="img/languages/us-small.jpg">
                         <div class="cata adventure">Inicial</div>
                     </div>
@@ -23,7 +22,7 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
-                <div class="recent-game-item">
+                <div class="recent-course-item">
                     <div class="rgi-thumb set-bg" data-setbg="img/languages/china-small.jpg">
                         <div class="cata adventure">Inicial</div>
                     </div>
@@ -39,7 +38,7 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
-                <div class="recent-game-item">
+                <div class="recent-course-item">
                     <div class="rgi-thumb set-bg" data-setbg="img/languages/russia-small.jpg">
                         <div class="cata adventure">Inicial</div>
                     </div>
@@ -57,4 +56,3 @@
         </div>
     </div>
 </section>
-<!-- Recent game section end -->

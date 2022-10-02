@@ -1,4 +1,3 @@
-<!-- Latest news section -->
 <div class="latest-news-section">
     <div class="ln-title">Tópicos</div>
     <div class="news-ticker">
@@ -20,4 +19,3 @@
         </div>
     </div>
 </div>
-<!-- Latest news section end -->
