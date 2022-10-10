@@ -1,4 +1,3 @@
-<!-- Footer section -->
 <footer class="footer-section">
     <div class="container">
         <ul class="footer-menu">
@@ -10,8 +9,7 @@
         <p class="copyright">
             Copyright &copy;<script>
                 document.write(new Date().getFullYear());
-            </script> Audium | Designed by <a href="https://github.com/AugustoDiaz-Dev">Augusto Diaz</a>
+            </script> Aurodium | Designed by <a href="https://github.com/AugustoDiaz-Dev">Augusto Diaz</a>
         </p>
     </div>
 </footer>
-<!-- Footer section end -->
