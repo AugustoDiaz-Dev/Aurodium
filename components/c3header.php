@@ -2,7 +2,7 @@
     <div class="container">
         <!-- logo -->
         <a class="site-logo" href="index.php">
-            <img src="img/logo.jpg" alt="Aurodium logo">
+            <img src="https://firebasestorage.googleapis.com/v0/b/aurodium-a116.appspot.com/o/img%2Flogo.jpg?alt=media&token=c46fac4b-587e-4d32-a6ca-1f1dd74b9026" alt="Aurodium logo">
         </a>
         <!-- <div class="user-panel">
             <a href="#">Login</a> / <a href="#">Register</a>
