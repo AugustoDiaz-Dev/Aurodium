@@ -143,9 +143,9 @@ ol {
   min-width: 153px;
   border-radius: 50px;
   font-weight: 500;
-  border: 2px solid transparent;
-  background: #ffb320;
+  border: 2px solid #ffb320;
   color: #131313;
+  background-color: white !important;
   cursor: pointer;
 }
 
@@ -155,8 +155,8 @@ ol {
 }
 
 .site-btn:hover {
-  color: #ffb320;
-  background-color: #131313 !important;
+  background-color: #ffb320 !important;
+  color: #131313;
   border: 2px solid #ffb320 !important;
 }
 
@@ -1549,7 +1549,7 @@ html {
   color: #ffb320 !important;
 }
 .carousel-inner {
-  border-radius: 1rem;
+  border-radius: 0.5rem;
 }
 #carousel button {
   background-color: transparent;
