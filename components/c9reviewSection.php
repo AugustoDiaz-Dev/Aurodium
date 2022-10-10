@@ -8,7 +8,7 @@
         <div class="row">
             <div class="col-lg-3 col-md-6">
                 <div class="review-item">
-                    <div class="review-cover set-bg" data-setbg="img/music/piano.jpg">
+                    <div class="review-cover set-bg" data-setbg="img/courses/music_piano.jpg">
                         <div class="score green">9.1</div>
                     </div>
                     <div class="review-text">
@@ -19,7 +19,7 @@
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="review-item">
-                    <div class="review-cover set-bg" data-setbg="img/music/music-theory.jpg">
+                    <div class="review-cover set-bg" data-setbg="img/courses/music_theory.jpg">
                         <div class="score yellow">9.3</div>
                     </div>
                     <div class="review-text">
@@ -30,7 +30,7 @@
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="review-item">
-                    <div class="review-cover set-bg" data-setbg="img/music/ear-training.jpg">
+                    <div class="review-cover set-bg" data-setbg="img/courses/music_ear-training.jpg">
                         <div class="score purple">9.5</div>
                     </div>
                     <div class="review-text">
@@ -41,7 +41,7 @@
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="review-item">
-                    <div class="review-cover set-bg" data-setbg="img/music/harmony.jpg">
+                    <div class="review-cover set-bg" data-setbg="img/courses/music_harmony.jpg">
                         <div class="score pink">9.7</div>
                     </div>
                     <div class="review-text">
