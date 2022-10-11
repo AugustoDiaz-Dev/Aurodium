@@ -43,22 +43,26 @@
 			</div>
 			<div class="col-lg-8">
 				<div class="contact-form-warp">
-					<h4 class="comment-title my-primary">¡Suscribiendote tenés un 20% de descuento!</h4>
+					<h4 class="comment-title my-primary">¡Suscribiendote tenés descuentos!</h4>
 
-					<form class="comment-form" action="send.php" method="post">
+					<form class="comment-form" action="send.php" method="POST">
+						 
 						<div class="row">
 
 							<div class="col-md-6">
-								<input type="text" name="name" placeholder="Nombre">
+								<input type="text" name="name" minlength="3" maxlength="40" title="Mínimo 3 caracteres"  placeholder="Nombre" required>
 							</div>
 
 							<div class="col-md-6">
-								<input type="email" name="email" placeholder="Email">
+								<input type="email" name="email" title="Incluya un email válido con el signo @" placeholder="Email" required>
 							</div>
 
 							<div class="col-lg-12">
-								<input type="text" name="subject" placeholder="Motivo">
-								<textarea name="body" placeholder="Mensaje"></textarea>
+								<input type="text" name="subject" title="Máximo 30 caracteres" placeholder="Motivo" maxlength="30">
+								<textarea name="body" title="Máximo 255 caracteres" maxlength="255" placeholder="Mensaje" required></textarea>
+
+								<input type="hidden" name="token" id="token"/>
+								
 								<button class="site-btn btn-sm" type="submit" name="send">Enviar</button>
 							</div>
 
