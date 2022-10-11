@@ -1,3 +1,33 @@
+<?php
+if(isset($_POST['send'])) {
+$url = 'https://www.google.com/recaptcha/api/siteverify';
+$data = [
+	'$secret' => '6LdKlnAiAAAAACHETZ76WLgOZolXb5Ytb1ruwPWa',
+	'$response' => $_POST['token'],
+	'$remoteip' => $_SERVER['REMOTE_ADDR']
+];
+
+	$options = array(
+		'http' => array(
+			'header' => "Content-type: application/x-www-form-urlencoded\r\n",
+			'method' => 'POST', 
+			'content' => http_build_query($data)
+		)
+		);
+
+	$context = stream_context_create($options);
+	$response = file_get_contents($url, false, $context);
+
+	$res = json_decode($response, true);
+	if($res['success'] == true) {
+		// What you want to do
+		include './send.php';
+	} else {
+		echo '<script>alert("Error en la autenticación")</script>';
+	}
+}
+?>
+
 <!DOCTYPE html>
 <html lang="es">
 
@@ -23,4 +53,13 @@
 
 </body>
 
+<script>
+        grecaptcha.ready(function() {
+          grecaptcha.execute('6LdKlnAiAAAAAGGTNYLc1rcqgPJ7xOYXiO4VJ0rB', {action: 'submit'}).then(function(token) {
+              // Add your logic to submit to your backend server here.
+			  document.getElementById('token').value = token;
+          });
+        });
+  </script>
 </html>
+
