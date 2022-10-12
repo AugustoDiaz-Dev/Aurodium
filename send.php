@@ -13,7 +13,6 @@ use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;
 
-
 if (isset($_POST["send"])) {
 
     $email = new PHPMailer(true);
@@ -32,7 +31,7 @@ if (isset($_POST["send"])) {
         "<h4 style='color: green; text-decoration: underline;'>Subject: </h4>" . "<h3>$subject</h3>" . "<br/>" .
         "<h4 style='color: green; text-decoration: underline;'>Message: </h4>" . "<p>$body</p>";
 
-    $email->setFrom("a", 'Aurodium Website');
+    $email->setFrom("", "");
     $email->addAddress("");
     $email->isHTML(true);
     $email->Subject = $_POST["subject"];
