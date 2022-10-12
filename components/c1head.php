@@ -8,7 +8,7 @@
 <!-- Google Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,500,500i,700,700i" rel="stylesheet">
 <!-- reCAPTCHA -->
-<script src="https://www.google.com/recaptcha/api.js?render=6LdKlnAiAAAAAGGTNYLc1rcqgPJ7xOYXiO4VJ0rB"></script>
+<script src="https://www.google.com/recaptcha/api.js?render="></script>
 <!-- Stylesheets -->
 <link rel="stylesheet" href="css/bootstrap.min.css" />
 <link rel="stylesheet" href="css/font-awesome.min.css" />
