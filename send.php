@@ -13,44 +13,44 @@ use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;
 
-    if (isset($_POST["send"])) {
 
-        $email = new PHPMailer(true);
+if (isset($_POST["send"])) {
 
-        $email->isSMTP();
-        $email->Host = "smtp.gmail.com";
-        $email->SMTPAuth = "true";
-        $email->Username = "";
-        $email->Password = "";
-        $email->SMTPSecure = "ssl";
-        $email->Port = 465;
+    $email = new PHPMailer(true);
 
-        $message =
-            "<h2 style='color: #9530c7'>Name: <span style='color: black'>$name</span></h2>" . "<br/>" .
-            "<h3 style='color: #9530c7'>Email: <span style='color: black'>$mail</span></h3>" . "<br/>" .
-            "<h3 style='color: #9530c7'>Subject: <span style='color: black'>$subject</span></h3>" . "<br/>" .
-            "<h3 style='color: #9530c7'>Message: <span style='color: black'>$body</span></h3>";
+    $email->isSMTP();
+    $email->Host = "smtp.gmail.com";
+    $email->SMTPAuth = "true";
+    $email->Username = ";
+    $email->Password = "";
+    $email->SMTPSecure = "ssl";
+    $email->Port = 465;
 
-        $email->setFrom($_POST["email"], 'Aurodium Website');
-        $email->addAddress("");
-        $email->isHTML(true);
-        $email->Subject = $_POST["subject"];
-        $email->Name = $_POST["name"];
-        $email->Body = $message;
+    $message =
+        "<h4 style='color: green; text-decoration: underline;'>Name: </h4>" . "<h2>$name</h2>" . "<br/>" .
+        "<h4 style='color: green; text-decoration: underline;'>Email: </h4>" . $mail . "<br/>" .
+        "<h4 style='color: green; text-decoration: underline;'>Subject: </h4>" . "<h3>$subject</h3>" . "<br/>" .
+        "<h4 style='color: green; text-decoration: underline;'>Message: </h4>" . "<p>$body</p>";
 
-        if ($email->Send()) {
-            echo "
-                    <script>alert('¡Mensaje enviado con éxito! Te responderemos muy pronto, gracias.');
-                    document.location.href = 'index.php';
-                    </script>
-                    ";
-            }
-        else {
-            echo "
-            <script>alert('¡Error! Por favor, intente nuevamente...');</script>
-            ";
-        }
-        $email->smtpClose();
+    $email->setFrom("", 'Augusto Diaz');
+    $email->addAddress($_POST["email"]);
+    $email->isHTML(true);
+    $email->Subject = $_POST["subject"];
+    $email->Name = $_POST["name"];
+    $email->Body = $message;
+
+    if ($email->Send()) {
+        echo "
+        <script>alert('Email successfully sent!');
+        document.location.href = 'index.php'
+        </script>
+        ";
+    } else {
+        echo "
+        <script>alert('Error! Please, try again...');</script>
+        ";
+    };
+    $email->smtpClose();
 }
 
    
