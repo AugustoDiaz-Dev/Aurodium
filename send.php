@@ -21,7 +21,7 @@ if (isset($_POST["send"])) {
     $email->isSMTP();
     $email->Host = "smtp.gmail.com";
     $email->SMTPAuth = "true";
-    $email->Username = ";
+    $email->Username = "";
     $email->Password = "";
     $email->SMTPSecure = "ssl";
     $email->Port = 465;
@@ -32,8 +32,8 @@ if (isset($_POST["send"])) {
         "<h4 style='color: green; text-decoration: underline;'>Subject: </h4>" . "<h3>$subject</h3>" . "<br/>" .
         "<h4 style='color: green; text-decoration: underline;'>Message: </h4>" . "<p>$body</p>";
 
-    $email->setFrom("", 'Augusto Diaz');
-    $email->addAddress($_POST["email"]);
+    $email->setFrom("a", 'Aurodium Website');
+    $email->addAddress("");
     $email->isHTML(true);
     $email->Subject = $_POST["subject"];
     $email->Name = $_POST["name"];
