@@ -19,7 +19,7 @@
                         <p>Aprender uno de los lenguajes con más futuro y demanda en el mercado laboral.</p>
                         <div class="d-md-flex justify-content-around d-sm-block">
                         <p><a href="https://www.notion.so/Cursos-f2c44c6fb0484bf1ac9e201f2f18f5b6" class="site-btn btn-sm mb-1" target="_blank" type="button">Contenido</a></p>
-                        <p><a href="#contact-form" class="site-btn btn-sm mb-1" target="_blank" type="button">Contacto</a></p>
+                        <p><a href="#contact-form" class="site-btn btn-sm mb-1" type="button">Contacto</a></p>
                         </div>
                     </div>
                 </div>
@@ -41,7 +41,7 @@
                         <p>Primeras herramientas de lógica y programación para niños en edades entre 5 y 11 años.</p>
                         <div class="d-md-flex justify-content-around d-sm-block">
                         <p><a href="https://www.notion.so/Cursos-f2c44c6fb0484bf1ac9e201f2f18f5b6" class="site-btn btn-sm mb-1" target="_blank" type="button">Contenido</a></p>
-                        <p><a href="#contact-form" class="site-btn btn-sm mb-1" target="_blank" type="button">Contacto</a></p>
+                        <p><a href="#contact-form" class="site-btn btn-sm mb-1" type="button">Contacto</a></p>
                         </div>
                     </div>
                 </div>
@@ -64,7 +64,7 @@
                         <p>Aprender las tecnologías fundamentales para el Desarrollo Web: HTML, CSS y JavaScript.</p>
                         <div class="d-md-flex justify-content-around d-sm-block">
                         <p><a href="https://www.notion.so/Cursos-f2c44c6fb0484bf1ac9e201f2f18f5b6" class="site-btn btn-sm mb-1" target="_blank" type="button">Contenido</a></p>
-                        <p><a href="#contact-form" class="site-btn btn-sm mb-1" target="_blank" type="button">Contacto</a></p>
+                        <p><a href="#contact-form" class="site-btn btn-sm mb-1" type="button">Contacto</a></p>
                         </div>
                     </div>
                 </div>
@@ -86,7 +86,7 @@
                         <p>HTML, CSS y JavaScript. Conceptos avanzados y nuevas técnicas. Bootstrap.</p>
                         <div class="d-md-flex justify-content-around d-sm-block">
                         <p><a href="https://www.notion.so/Cursos-f2c44c6fb0484bf1ac9e201f2f18f5b6" class="site-btn btn-sm mb-1" target="_blank" type="button">Contenido</a></p>
-                        <p><a href="#contact-form" class="site-btn btn-sm mb-1" target="_blank" type="button">Contacto</a></p>
+                        <p><a href="#contact-form" class="site-btn btn-sm mb-1" type="button">Contacto</a></p>
                         </div>
                     </div>
                 </div>
@@ -108,7 +108,7 @@
                         <p>Librería Front-End diseñada para facilitar el desarrollo de aplicaciones en una sola página.</p>
                         <div class="d-md-flex justify-content-around d-sm-block">
                         <p><a href="https://www.notion.so/Cursos-f2c44c6fb0484bf1ac9e201f2f18f5b6" class="site-btn btn-sm mb-1" target="_blank" type="button">Contenido</a></p>
-                        <p><a href="#contact-form" class="site-btn btn-sm mb-1" target="_blank" type="button">Contacto</a></p>
+                        <p><a href="#contact-form" class="site-btn btn-sm mb-1" type="button">Contacto</a></p>
                         </div>
                     </div>
                 </div>
@@ -130,7 +130,7 @@
                         <p>Cursos para estudiantes con escaso o nulo conocimiento. Preparación para examenes internacionales.</p>
                         <div class="d-md-flex justify-content-around d-sm-block">
                         <p><a href="https://www.notion.so/Cursos-f2c44c6fb0484bf1ac9e201f2f18f5b6" class="site-btn btn-sm mb-1" target="_blank" type="button">Contenido</a></p>
-                        <p><a href="#contact-form" class="site-btn btn-sm mb-1" target="_blank" type="button">Contacto</a></p>
+                        <p><a href="#contact-form" class="site-btn btn-sm mb-1" type="button">Contacto</a></p>
                         </div>
                     </div>
                 </div>
@@ -152,7 +152,7 @@
                         <p>Cursos para estudiantes con escaso o nulo conocimiento. Preparación para examenes internacionales.</p>
                         <div class="d-md-flex justify-content-around d-sm-block">
                         <p><a href="https://www.notion.so/Cursos-f2c44c6fb0484bf1ac9e201f2f18f5b6" class="site-btn btn-sm mb-1" target="_blank" type="button">Contenido</a></p>
-                        <p><a href="#contact-form" class="site-btn btn-sm mb-1" target="_blank" type="button">Contacto</a></p>
+                        <p><a href="#contact-form" class="site-btn btn-sm mb-1" type="button">Contacto</a></p>
                         </div>
                     </div>
                 </div>
@@ -174,7 +174,7 @@
                         <p>Cursos para estudiantes con escaso o nulo conocimiento. Preparación para examenes internacionales.</p>
                         <div class="d-md-flex justify-content-around d-sm-block">
                         <p><a href="https://www.notion.so/Cursos-f2c44c6fb0484bf1ac9e201f2f18f5b6" class="site-btn btn-sm mb-1" target="_blank" type="button">Contenido</a></p>
-                        <p><a href="#contact-form" class="site-btn btn-sm mb-1 " target="_blank" type="button">Contacto</a></p>
+                        <p><a href="#contact-form" class="site-btn btn-sm mb-1 " type="button">Contacto</a></p>
                         </div>
                     </div>
                 </div>

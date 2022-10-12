@@ -1,16 +1,7 @@
 # Aurodium
 
-- HTML
-- CSS 
-- JavaScript
-- jQuery
-- Bootstrap
-- PHP 
-- Animate.css
-- Font Awesome
-- Owl Carousel
-- Notion.so
-- VsCode
-- Figma
-- Photopea
+## Tools
 
+HTML, CSS, JavaScript, PHP, Bootstrap, Google reCAPTCHA, PHP Mailer, Figma, Notion, Unsplash.
+
+- Captcha Reference: https://www.youtube.com/watch?v=AuWsUDaOQdM
