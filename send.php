@@ -20,8 +20,8 @@ use PHPMailer\PHPMailer\Exception;
         $email->isSMTP();
         $email->Host = "smtp.gmail.com";
         $email->SMTPAuth = "true";
-        $email->Username = "aurodium.cursos@gmail.com";
-        $email->Password = "rkverxrdymmbdpeo";
+        $email->Username = "";
+        $email->Password = "";
         $email->SMTPSecure = "ssl";
         $email->Port = 465;
 
@@ -32,7 +32,7 @@ use PHPMailer\PHPMailer\Exception;
             "<h3 style='color: #9530c7'>Message: <span style='color: black'>$body</span></h3>";
 
         $email->setFrom($_POST["email"], 'Aurodium Website');
-        $email->addAddress("aurodium.cursos@gmail.com");
+        $email->addAddress("");
         $email->isHTML(true);
         $email->Subject = $_POST["subject"];
         $email->Name = $_POST["name"];
