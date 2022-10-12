@@ -20,8 +20,8 @@ if (isset($_POST["send"])) {
     $email->isSMTP();
     $email->Host = "smtp.gmail.com";
     $email->SMTPAuth = "true";
-    $email->Username = "aurodium.cursos@gmail.com";
-    $email->Password = "rkverxrdymmbdpeo";
+    $email->Username = "";
+    $email->Password = "";
     $email->SMTPSecure = "ssl";
     $email->Port = 465;
 
@@ -31,8 +31,8 @@ if (isset($_POST["send"])) {
         "<h3 style='color: #9530c7'>Subject: <span style='color: black'>$subject</span></h3>" . "<br/>" .
         "<h3 style='color: #9530c7'>Message: <span style='color: black'>$body</span></h3>";
 
-    $email->setFrom("aurodium.cursos@gmail.com", 'Aurodium Website');
-    $email->addAddress("aurodium.cursos@gmail.com");
+    $email->setFrom("a", 'Aurodium Website');
+    $email->addAddress("");
     $email->isHTML(true);
     $email->Subject = $_POST["subject"];
     $email->Name = $_POST["name"];
