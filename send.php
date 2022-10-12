@@ -13,6 +13,7 @@ use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;
 
+
 if (isset($_POST["send"])) {
 
     $email = new PHPMailer(true);
@@ -51,3 +52,5 @@ if (isset($_POST["send"])) {
     };
     $email->smtpClose();
 }
+
+   

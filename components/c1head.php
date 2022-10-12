@@ -4,9 +4,11 @@
 <meta name="keywords" content="aurodium, escuela, cursos, online">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!-- Favicon -->
-<link href="img/favicon.png" rel="shortcut icon" />
+<link href="https://firebasestorage.googleapis.com/v0/b/aurodium-a116.appspot.com/o/img%2Ffavicon.png?alt=media&token=ced0d476-ca76-4f09-a042-5bf7c5da1c98" rel="shortcut icon" />
 <!-- Google Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,500,500i,700,700i" rel="stylesheet">
+<!-- reCAPTCHA -->
+<script src="https://www.google.com/recaptcha/api.js?render="></script>
 <!-- Stylesheets -->
 <link rel="stylesheet" href="css/bootstrap.min.css" />
 <link rel="stylesheet" href="css/font-awesome.min.css" />

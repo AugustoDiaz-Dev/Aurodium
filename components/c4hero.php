@@ -1,7 +1,7 @@
 <!-- Hero section -->
 <section class="hero-section">
     <div class="hero-slider owl-carousel">
-        <div class="hs-item set-bg" data-setbg="img/section-bg.jpg">
+        <div class="hs-item set-bg" data-setbg="https://firebasestorage.googleapis.com/v0/b/aurodium-a116.appspot.com/o/img%2Fsection-bg.jpg?alt=media&token=8d750daf-d1ef-4eeb-bc25-abe768fae8cf">
             <div class="hs-text">
                 <div class="container">
                     <h2>¡Los Mejores <span>Cursos</span>!</h2>
@@ -14,7 +14,7 @@
                 </div>
             </div>
         </div>
-        <div class="hs-item set-bg" data-setbg="img/section-bg-1.jpg">
+        <div class="hs-item set-bg" data-setbg="https://firebasestorage.googleapis.com/v0/b/aurodium-a116.appspot.com/o/img%2Fsection-bg-1.jpg?alt=media&token=1db5afd7-6d75-43b6-a3ae-2a77fece6606">
             <div class="hs-text">
                 <div class="container">
                     <h2>¡Sumá nuevas <span>herramientas</span>!</h2>

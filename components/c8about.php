@@ -6,7 +6,7 @@
                 <div class="about-item mb-4 mb-lg-0">
                     <div class="ti-notic">Aurodium</div>
                     <div class="ti-content">
-                        <div class="ti-thumb set-bg" data-setbg="img/about.jpg"></div>
+                        <div class="ti-thumb set-bg" data-setbg="https://firebasestorage.googleapis.com/v0/b/aurodium-a116.appspot.com/o/img%2Fabout.jpg?alt=media&token=d2c12d92-f301-4667-adef-f88503901b57"></div>
                         <div class="ti-text">
                             <h4>Una forma diferente de enseñar</h4>
                             <p>Trabajamos en la formación de nuevos hábitos y en la creación de aprendizajes significativos que sirvan como base para futuros desarrollos.</p>
@@ -30,7 +30,7 @@
                 <div class="about-item">
                     <div class="ti-notic">Lista de cursos</div>
                     <div class="ti-content">
-                        <div class="ti-thumb set-bg" data-setbg="img/about.jpg"></div>
+                        <div class="ti-thumb set-bg" data-setbg="https://firebasestorage.googleapis.com/v0/b/aurodium-a116.appspot.com/o/img%2Fcourses-list.jpg?alt=media&token=b1a849b0-15d6-4c33-b0c6-612a1c2c3de0"></div>
                         <div class="ti-text">
                             <h4>Cursos disponibles</h4>
                             <ul>
