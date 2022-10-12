@@ -55,7 +55,7 @@ $data = [
 
 <script>
         grecaptcha.ready(function() {
-          grecaptcha.execute('6LdKlnAiAAAAAGGTNYLc1rcqgPJ7xOYXiO4VJ0rB', {action: 'submit'}).then(function(token) {
+          grecaptcha.execute('', {action: 'submit'}).then(function(token) {
               // Add your logic to submit to your backend server here.
 			  document.getElementById('token').value = token;
           });
