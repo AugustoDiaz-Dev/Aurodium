@@ -20,7 +20,7 @@
                                 <li><span>Cursos disponibles:</span> 33</li>
                                 <li><span>Cursos en proceso:</span> 15</li>
                                 <li><span>Estudiantes activos: </span> 50</li>
-                                <li><span>Estudiantes que han finalizado cursos: </span>  77</li>
+                                <li><span>Estudiantes que han finalizado cursos: 66</span>  77</li>
                             </ul>
                         </div>
                     </div>

@@ -11,7 +11,7 @@
                         <div class="cata adventure">Inicial</div>
                     </div>
                     <div class="rgi-content">
-                    <h5><a href="https://www.notion.so/Cursos-f2c44c6fb0484bf1ac9e201f2f18f5b6" target="_blank" class="text-dark">Inglés</a></h5>
+                    <h5><a href="https://www.notion.so/aurodium/Cursos-f2c44c6fb0484bf1ac9e201f2f18f5b6" target="_blank" class="text-dark">Inglés</a></h5>
                         <p>Inglés desde cero. Business. IELTS. Exámenes internacionales. Inglés para viajeros.</p>
                         <a href="https://wa.me/79143308115?text=Hola!%20Tengo%20una%20consulta%20" target="_blank" class="fi-comment text-success">Consultar</a>
                         <div class="rgi-extra">
@@ -27,7 +27,7 @@
                         <div class="cata adventure">Inicial</div>
                     </div>
                     <div class="rgi-content">
-                    <h5><a href="https://www.notion.so/Cursos-f2c44c6fb0484bf1ac9e201f2f18f5b6" target="_blank" class="text-dark">Chino</a></h5>
+                    <h5><a href="https://www.notion.so/aurodium/Cursos-f2c44c6fb0484bf1ac9e201f2f18f5b6" target="_blank" class="text-dark">Chino</a></h5>
                         <p>Chino desde cero. Preparación para los exámenes internacionales HSK, niveles 1-9.</p>
                         <a href="https://wa.me/79143308115?text=Hola!%20Tengo%20una%20consulta%20" target="_blank" class="fi-comment text-success">Consultar</a>
                         <div class="rgi-extra">
@@ -43,8 +43,8 @@
                         <div class="cata adventure">Inicial</div>
                     </div>
                     <div class="rgi-content">
-                        <h5><a href="https://www.notion.so/Cursos-f2c44c6fb0484bf1ac9e201f2f18f5b6" target="_blank" class="text-dark">Ruso</a></h5> 
-                        <p>Ruso desde cero. Exámenes de residencia temporal, permanente,ciudadanía.</p>
+                        <h5><a href="https://www.notion.so/aurodium/Cursos-f2c44c6fb0484bf1ac9e201f2f18f5b6">Ruso</a></h5> 
+                        <p>Ruso desde cero. Exámenes de residencia temporal, permanente, ciudadanía.</p>
                         <a href="https://wa.me/79143308115?text=Hola!%20Tengo%20una%20consulta%20" target="_blank" class="fi-comment text-success">Consultar</a>
                         <div class="rgi-extra">
                             <div class="rgi-star"><img src="https://firebasestorage.googleapis.com/v0/b/aurodium-a116.appspot.com/o/img%2Ficons%2Fstar.png?alt=media&token=1034eaa6-7cb5-45b7-b49b-a8f918902ffd" alt=""></div>
