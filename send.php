@@ -26,12 +26,12 @@ if (isset($_POST["send"])) {
     $email->Port = 465;
 
     $message =
-        "<h4 style='color: green; text-decoration: underline;'>Name: </h4>" . "<h2>$name</h2>" . "<br/>" .
-        "<h4 style='color: green; text-decoration: underline;'>Email: </h4>" . $mail . "<br/>" .
-        "<h4 style='color: green; text-decoration: underline;'>Subject: </h4>" . "<h3>$subject</h3>" . "<br/>" .
-        "<h4 style='color: green; text-decoration: underline;'>Message: </h4>" . "<p>$body</p>";
+        "<h2 style='color: #9530c7'>Name: <span style='color: black'>$name</span></h2>" . "<br/>" .
+        "<h3 style='color: #9530c7'>Email: <span style='color: black'>$mail</span></h3>" . "<br/>" .
+        "<h3 style='color: #9530c7'>Subject: <span style='color: black'>$subject</span></h3>" . "<br/>" .
+        "<h3 style='color: #9530c7'>Message: <span style='color: black'>$body</span></h3>";
 
-    $email->setFrom("", "");
+    $email->setFrom("", 'Aurodium Website');
     $email->addAddress("");
     $email->isHTML(true);
     $email->Subject = $_POST["subject"];
@@ -40,16 +40,14 @@ if (isset($_POST["send"])) {
 
     if ($email->Send()) {
         echo "
-        <script>alert('Email successfully sent!');
+        <script>alert('¡Mensaje enviado con éxito!');
         document.location.href = 'index.php'
         </script>
         ";
     } else {
         echo "
-        <script>alert('Error! Please, try again...');</script>
+        <script>alert('¡Error! Por favor, intente nuevamente...');</script>
         ";
     };
     $email->smtpClose();
 }
-
-   
