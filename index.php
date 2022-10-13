@@ -2,7 +2,7 @@
 if(isset($_POST['send'])) {
 $url = 'https://www.google.com/recaptcha/api/siteverify';
 $data = [
-	'$secret' => '6LdKlnAiAAAAACHETZ76WLgOZolXb5Ytb1ruwPWa',
+	'$secret' => '',
 	'$response' => $_POST['token'],
 	'$remoteip' => $_SERVER['REMOTE_ADDR']
 ];
@@ -55,7 +55,7 @@ $data = [
 
 <script>
         grecaptcha.ready(function() {
-          grecaptcha.execute('6LdKlnAiAAAAAGGTNYLc1rcqgPJ7xOYXiO4VJ0rB', {action: 'submit'}).then(function(token) {
+          grecaptcha.execute('', {action: 'submit'}).then(function(token) {
               // Add your logic to submit to your backend server here.
 			  document.getElementById('token').value = token;
           });
