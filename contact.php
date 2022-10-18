@@ -19,10 +19,10 @@
 				<div class="row">
 					<div class="col-md-9">
 						<ul class="contact-info-list">
-							<li>
+							<!-- <li>
 								<div class="cf-left my-primary">Dirección</div>
 								<div class="cf-right">Somewhere over the rainbow</div>
-							</li>
+							</li> -->
 							<li>
 								<div class="cf-left my-primary">WhatsApp</div>
 								<div class="cf-right my-primary">
@@ -30,8 +30,12 @@
 								</div>
 							</li>
 							<li>
-								<div class="cf-left my-primary">E-mail</div>
-								<div class="cf-right">aurodium.cursos@gmail.com</div>
+								<div class="cf-left my-primary">Consultas</div>
+								<div class="cf-right">consultas@aurodium.online</div>
+							</li>
+							<li>
+								<div class="cf-left my-primary">Pagos</div>
+								<div class="cf-right">pagos@aurodium.online</div>
 							</li>
 						</ul>
 					</div>
